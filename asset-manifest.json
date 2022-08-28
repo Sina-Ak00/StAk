@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/StAk/static/css/main.08d4586f.css",
+    "main.js": "/StAk/static/js/main.fcff0bb5.js",
+    "static/media/IRANSans-FaNum.ttf": "/StAk/static/media/IRANSans-FaNum.108fac8774fe726cac7e.ttf",
+    "static/media/img.jpg": "/StAk/static/media/img.eef9932593fb499eab7d.jpg",
+    "static/media/Iranian-Sans.ttf": "/StAk/static/media/Iranian-Sans.8c2ed8fb0154947263c5.ttf",
+    "index.html": "/StAk/index.html",
+    "main.08d4586f.css.map": "/StAk/static/css/main.08d4586f.css.map",
+    "main.fcff0bb5.js.map": "/StAk/static/js/main.fcff0bb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08d4586f.css",
+    "static/js/main.fcff0bb5.js"
+  ]
+}
